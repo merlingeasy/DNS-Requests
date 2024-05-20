@@ -1,3 +1,3 @@
-# SubdomainTakeover
+# DNS Requests
 
-Script com o intuíto de estudo do ataque "Subdomain Takeover"
+Scripts com o intuíto de serem utilizados para descoberta das configurações de um DNS específico. Para fim de estudo apenas
